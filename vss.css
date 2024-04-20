@@ -1,0 +1,38 @@
+.syou{
+        background: #f2f2f2;
+        border-spacing: 0;
+    }
+.syou th,.syou td{    
+    border-bottom: 2px solid #000;
+    padding: 10px;
+}
+.sss{
+    overflow-x: auto;
+
+  }
+  .seiseki {
+    width: 100%;
+    border-collapse: collapse;
+    white-space: nowrap;
+  }
+  .seiseki th,
+  .seiseki td {
+    border: 2px solid #eee;
+    padding: 4px 8px;
+  }
+.seiseki th{
+    background-color: #E7E7E7;  
+}
+.p{
+    width: auto;
+}
+p img{
+    width: 100%;
+}
+.avs{
+  width: auto;
+}
+.avs img{
+  width: 50%;
+
+}
