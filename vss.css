@@ -36,3 +36,12 @@ p img{
   width: 50%;
 
 }
+.aaa{
+  width: auto;
+}
+
+.toro {
+  width: 50%;
+  height: 120 px;
+  object-fit: cover;
+}
